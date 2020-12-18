@@ -1,6 +1,18 @@
-# Dit is een test of alles wel werkt
-
+# Dit is een test of alles wel werkt tot nu toe
 ### We gaan nu iets nieuws maken
+
+1. eerste
+1. eerste
+1. eerste
+  1. eerste
+  1. eerste
+  1. eerste
+
+Toen ik dit deed de eerste keer schreeuwde ik `Dit is een test` denk daar maar eens over na
+
+[nu.nl](https://nu.nl)
+
+
 
 
 
